@@ -1,3 +1,6 @@
+# Note: This is not the most condensed solution
+# There are cleaner methods that will solve the challenge in shorter lines of code
+
 array = [7, 69, 2, 221, 8974]
 new_array = sorted(array)
 
